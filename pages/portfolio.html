@@ -337,6 +337,12 @@
        $('html,body,container').animate({scrollTop: aTag.offset().top},'slow');
       }
 
+
+      $("FB").click(function() {
+        console.log("clicked");
+        scrollToAnchor('FB');
+        });
+
       $("#DFS").click(function() {
         console.log("clicked");
         scrollToAnchor('DFS');
