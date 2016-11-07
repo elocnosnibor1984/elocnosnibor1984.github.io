@@ -37,12 +37,12 @@ body {
 h1{
 	font-size: 80px;
 	margin-top: 10%;
-	-webkit-animation: fadein 2.5s;
+	-webkit-animation: fadein 1.5s;
 	color: yellow;
 }
 h5{
 	font-size: 32px;
-	 -webkit-animation: fadein 3s;
+	 -webkit-animation: fadein 2.5s;
 	 margin-bottom: 45px;
 	 color: yellow;
 }
